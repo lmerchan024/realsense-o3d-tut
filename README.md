@@ -1,5 +1,6 @@
-# RealSense
+# §1 Getting Intel RealSense viewer application and capturing your own pointcloud
 
-Some description!
 
-# open3D Tutorial with captured pointclouds
+# §2 Manipulating pointcloud with open3d on jupyter notebook
+
+
