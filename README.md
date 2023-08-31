@@ -2,4 +2,4 @@
 
 Some description!
 
-# open3D Tutorial with custom pointclouds
+# open3D Tutorial with captured pointclouds
